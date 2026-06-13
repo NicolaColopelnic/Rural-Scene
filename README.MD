@@ -54,3 +54,7 @@ The rendering process consist of three main passes:
 1. Shadow map generation
 2. Main geometry pass
 3. Skybox pass
+
+## Documentation
+The full technical documentation:
+[Rural 3D Interactive Scene Documentation](docs/Graphic Processing  Project Documentation.pdf)
