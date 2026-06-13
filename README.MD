@@ -46,7 +46,7 @@ The application follows a modular structure:
 - Shader: shader compilation and  uniform handling
 - Camera: view matrix, movement and rotation
 - Model3D, Mesh: 3D model loading and rendering
-- Skybix: cubemap background
+- Skybox: cubemap background
 - Main: scene organization and rendering loop
 
 ## Graphics Pipeline Overview
