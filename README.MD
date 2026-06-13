@@ -57,4 +57,4 @@ The rendering process consist of three main passes:
 
 ## Documentation
 The full technical documentation:
-[Rural 3D Interactive Scene Documentation](docs/Graphic Processing  Project Documentation.pdf)
+[Rural 3D Interactive Scene Documentation](<docs/Graphic Processing  Project Documentation.pdf>)
